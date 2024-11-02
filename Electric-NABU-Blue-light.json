@@ -1,0 +1,25 @@
+{
+  "name": "Electric NABU Blue Light",
+  "is_dark": false,
+  "colors": {
+      "accent-color": "#0068b4",
+      "primary-color": "#e37822",
+      "warning-color": "#dd052d",
+      "sidebar-color": "#0068b4",
+      "roomlist-background-color": "#f5f5f5",
+      "roomlist-text-color": "#2F343D",
+      "roomlist-text-secondary-color": "#2F343D",
+      "roomlist-highlights-color": "#eceff4",
+      "roomlist-separator-color": "#eceff4",
+      "timeline-background-color": "#ffffff",
+      "timeline-text-color": "#2F343D",
+      "timeline-text-secondary-color": "#61708b",
+      "timeline-highlights-color": "#f3f8fd",
+      "username-colors": ["#003564","#005390", "#816300", "#008143","#003514", "#7d4300","#ffcc00","#bf6200"],
+      "avatar-background-colors": ["#6f9ed4","#b8d6c1", "#DCeac5","#fddab9","#FFEFC2", "#a9c5e5","#f6c4b9","#bbcdeb"]
+    },
+    "compound": {
+        "--cpd-color-icon-accent-tertiary": "var(--cpd-color-blue-800)",
+        "--cpd-color-text-action-accent": "var(--cpd-color-blue-900)"
+    }
+}
